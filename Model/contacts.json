@@ -1,156 +1,30 @@
 [
     {
-      "email": "tom.huynh@rmit.edu.vn",
+      "description": "There's truly enough warmth and good vibes to go around on Red Hot Chili Peppers' 12th full-length, Unlimited Love. Not only did the band re-form their seminal lineup, welcoming guitarist John Frusciante back into the fold after a decade-long absence, but they also reunited with longtime production guru Rick Rubin, who was swapped out for Danger Mouse on their last album, 2016's The Getaway. With the gang back together, there's a palpable joy born from the energy of four buddies just having fun in the studio. Extending their 2010s maturation without losing sight of their funk roots, Unlimited Love finds the Chili Peppers in jam-band mode, focusing more on sonic moods, surreal lyricism, and the journey itself, not a mainstream hit-fest like turn-of-the-millennium smashes Californication or By the Way. For tastes of that era, lead single Black Summer comes closest, sliding alongside Otherside and Californication on the Chili Pepper karaoke singalong list. The remaining 16 tracks can be split between body-moving funk jams and atmospheric mind-expanders, the latter of which almost always benefit from a killer Frusciante solo. Those funky cuts are showcases for Flea, whether he's dropping a bouncy bassline on the low end on Here Ever After or squiggling through Anthony Kiedis' elastic delivery on Whatchu Thinkin'. To that end, Kiedis' lyrics are at their most imaginative and, sometimes, inscrutable here, like a shirtless, mustachioed Dr. Seuss (the psychedelic music history lesson Poster Child and engrossing storytelling on Veronica are two standouts). While the songs don't jump out as much as on past efforts, getting lost in the tunes is part of the appeal of Unlimited Love. From the surprise appearance of jazz horns on the slinky Aquatic Mouth Dance and the creeping synths on the quirky Bastards of the Light to the heavenly Frusciante moments that elevate otherwise average tracks, like the midtempo Not the One or It's Only Natural, these unexpected flourishes perk up the proceedings and grow more endearing with each listen. For those in search of more immediate gratification, the crunchy jam She's a Lover, bouncy singalong anthem One Way Traffic, and uplifting The Heavy Wing are highlights, while These Are the Ways is a climactic standout, a full-bodied jolt of energy that crashes to a close with a gritty, gnashing breakdown. Despite the overall trippy and feel-good nature of the set, there's enough for fans of any past era to find an entry point and enjoy the ride.",
       "id": 1,
-      "phone": "091232522",
+      "year": "2022",
+      "rating": 4,
       "imageName": "tom-huynh",
-      "name": "Tom Huynh",
-      "coordinates": {
-          "latitude": 10.729410965174186,
-          "longitude": 106.69522548892152
-      }
+      "name": "Unlimited Love",
+      "songs" : ["Black Summer", "Here Ever After",	"Aquatic Mouth Dance", "Not the One", "Poster Child", "The Great Apes",	"It's Only Natural", "She's a Lover", "These Are the Ways", "Whatchu Thinkin'", "Bastards of Light", "White Braids & Pillow Chair",	"One Way Traffic", "Veronica", "Let 'Em Cry", "The Heavy Wing",	"Tangelo"]
     },
     {
-      "email": "brett.kirk@rmit.edu.vn",
+      "description": "The Red Hot Chili Peppers' 11th studio album, 2016's The Getaway, is a sophisticated work of dark-hued maturity that finds the long-running California outfit expanding their sound into nuanced, '70s-style orchestral soul and funky psychedelia. The album follows the equally adventurous I'm with You (2011) and once again showcases guitarist Josh Klinghoffer, who replaced John Frusciante in 2009. A major difference, however, between I'm with You and The Getaway was the band's choice to work with producer/instrumentalist Brian Burton (aka Danger Mouse). This makes The Getaway the first album the Red Hot Chili Peppers have recorded without longtime collaborator Rick Rubin, who has helmed each of the band's albums since 1991's Blood Sugar Sex Magik. While the choice helps differentiate The Getaway on a spiritual level, sonically it feels as if the band and Klinghoffer have finally gelled as a complete creative unit. Maybe that's due to having I'm with You under their belt, or perhaps it's due to Kiedis having purportedly gone through a painful break-up. Either way, the result is a subtle yet significant advance from I'm with You that feels just that much more focused. Cuts like the disco-inflected title track and the '80s electro-infused Go Robot reveal the band's knack for coloring their sound in surprising ways. Others, like We Turn Red and This Ticonderoga, are athletic funk-punk jams. Elsewhere, their chance-taking nature pays dividends, as on the Elton John collaboration Sick Love. A laid-back groover featuring John on piano with lyrics by Bernie Taupin, the song is an album standout, bringing to mind '70s-era Isley Brothers. Similarly, tracks like the flowing The Longest Wave and the densely layered Feasting on the Flowers, have a melodic, psychedelic quality that feels inspired by the Beatles' late-'60s period. However, it's the sprawling, hypnotic album closer, Dreams of a Samurai, that seems to pull all of The Getaway's disparate themes together in a bold, anthemic, fever dream of a song. Beginning with a minor-key piano intro, the song evolves into a roiling cinematic epic with Kiedis' yearning baritone framed in Klinghoffer's sweltering layers of wet, echoey guitars, Flea's rounded, circular basslines, and drummer Chad Smith's frenetic rhythms. They even make room for a soaring choir in the background that adds to the song's often malevolent, dream-like atmosphere. At once transformative and self-critical, the song finds Kiedis in a philosophical mood, painting himself as a lonely metamorphosis samurai singing, I've lost myself out on the range. While none of the songs on The Getaway play out as literal stories of Kiedis' relationship, there is an underlying sense of heartbreak at the core of many of his lyrics. On Dark Necessities, he sings, Spinning knot that is on my heart is like a bit of light in a touch of dark/You got sneak attack from the zodiac/But I see your fire spark. Ultimately, The Getaway is a nuanced album, rife with journeyman craft and poetry, that proves the Red Hot Chili Peppers still have plenty of their own creative fire.",
       "id": 2,
-      "phone": "094355634",
+      "year": "2016",
+      "rating": 4,
       "imageName": "brett-kirk",
-      "name": "Brett Kirk",
-      "coordinates": {
-          "latitude": 10.758256325746386,
-          "longitude": 106.67228491141948 
-      }
+      "name": "The Getaway",
+      "songs": ["The Getaway", "Dark Necessities", "We Turn Red", "The Longest Wave", "Goodbye Angels", "Sick Love", "Go Robot", "Feasting on the Flowers",	"Detroit", "This Ticonderoga", "Encore", "The Hunter", "Dreams of a Samurai"]
     },
     {
-      "email": "minh.dinh4@rmit.edu.vn",
-      "id": 3,
-      "phone": "0853453563",
-      "imageName": "minh-dinh",
-      "name": "Minh Dinh",
-      "coordinates": {
-          "latitude": 10.786710386116287,
-          "longitude": 106.73818415444727
-      }
+      "description": 
+      "id": 2,
+      "year": "2016",
+      "rating": 4,
+      "imageName": "brett-kirk",
+      "name": "The Getaway",
+      "songs": 
     },
-    {
-      "email": "tri.dangtran@rmit.edu.vn",
-      "id": 4,
-      "phone": "0674868566",
-      "imageName": "tri-dang",
-      "name": "Tri Dang",
-      "coordinates": {
-          "latitude": 10.79437079611712,
-          "longitude": 106.80394039521534 
-      }
-    },
-    {
-      "email": "long.nguyenminh@rmit.edu.vn",
-      "id": 5,
-      "phone": "0962456754",
-      "imageName": "long-nguyen",
-      "name": "Long Nguyen",
-      "coordinates": {
-          "latitude": 10.870169083568735,
-          "longitude": 106.76307939055084  
-      }
-    },
-    {
-      "email": "minh.vu@rmit.edu.vn",
-      "id": 6,
-      "phone": "0934634534",
-      "imageName": "minh-vu",
-      "name": "Minh Vu",
-      "coordinates": {
-          "latitude": 10.949713377874208,
-          "longitude": 106.8479555990988
-      }
-    },
-    {
-      "email": "linh.tranduc@rmit.edu.vn",
-      "id": 7,
-      "phone": "095463745",
-      "imageName": "linh-tran",
-      "name": "Linh Tran",
-      "coordinates": {
-          "latitude": 11.04578475693659,
-          "longitude": 106.58373092288061
-      }
-    },
-    {
-      "email": "alberto@rmit.edu.vn",
-      "id": 8,
-      "phone": "094354456",
-      "imageName": "alberto",
-      "name": "Alberto",
-      "coordinates": {
-          "latitude": 10.803071448238558,
-          "longitude": 106.64427589071033
-      }
-    },
-    {
-      "email": "cuong.nguyen@rmit.edu.vn",
-      "id": 9,
-      "phone": "0922342355",
-      "imageName": "cuong-nguyen",
-      "name": "Cuong Nguyen",
-      "coordinates": {
-          "latitude": 10.781771420238698,
-          "longitude": 106.6306334151885
-      }
-    },
-    {
-      "email": "khuong.nguyen@rmit.edu.vn",
-      "id": 10,
-      "phone": "09453346323",
-      "imageName": "khuong-nguyen",
-      "name": "Khuong Nguyen",
-      "coordinates": {
-          "latitude": 10.745642963019284,
-          "longitude": 106.57460623743862
-      }
-    },
-    {
-      "email": "luan.nguyen@rmit.edu.vn",
-      "id": 11,
-      "phone": "0925342356",
-      "imageName": "luan-nguyen",
-      "name": "Luan Nguyen",
-      "coordinates": {
-          "latitude": 10.642054789728482,
-          "longitude": 106.43875526875854
-      }
-    },
-    {
-      "email": "minh.tran@rmit.edu.vn",
-      "id": 12,
-      "phone": "0952534523",
-      "imageName": "minh-tran",
-      "name": "Minh Tran",
-      "coordinates": {
-          "latitude": 10.23862895243684,
-          "longitude": 106.3776103458168
-      }
-    },
-    {
-      "email": "sam.goundar@rmit.edu.vn",
-      "id": 13,
-      "phone": "095534534",
-      "imageName": "sam-goundar",
-      "name": "Sam Goundar",
-      "coordinates": {
-          "latitude": 9.991073220047838,
-          "longitude": 106.0169751879182 
-      }
-    },
-    {
-      "email": "ushik.shrestha@rmit.edu.vn",
-      "id": 14,
-      "phone": "0922345123",
-      "imageName": "ushik-shrestha",
-      "name": "Ushik Shrestha",
-      "coordinates": {
-          "latitude": 11.940952669293084,
-          "longitude": 108.45964507946036
-      }
-    }
+
 ]
